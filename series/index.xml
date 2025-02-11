@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Series on Character Arc</title>
+    <link>https://nicholascirillo.com/hugo-mock-landing-page/series/</link>
+    <description>Recent content in Series on Character Arc</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>Theme is open-source &lt;a class=&#34;text-muted text-decoration-none&#34; href=&#34;https://github.com/filipecarneiro/hugo-bootstrap-theme/blob/main/LICENSE&#34;&gt;MIT&lt;/a&gt; Licensed. Content © 2025 Nicholas Cirillo.</copyright>
+    <atom:link href="https://nicholascirillo.com/hugo-mock-landing-page/series/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
