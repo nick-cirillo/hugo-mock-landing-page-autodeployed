@@ -1,19 +1,18 @@
 ---
-title: "Bootstrap 5.2.0 beta"
-description: "It’s the biggest release since v5 itself—Bootstrap v5.2.0-beta1 is here!"
-date: 2022-05-13T13:00:44+01:00
+title: "Character Arc Beta"
+description: "Join the waitlist now"
+date: 2025-02-10T13:00:44+01:00
 draft: false
-images: ["bootstrap-5-2-0-beta.png"]
-categories: ["The Bootstrap Blog"]
-tags: ["Bootstrap"]
-keywords: ["bootstrap 5 2 0 beta","bootstrap 5","bootstrap"]
-authors: ["Mark Otto"]
+# images: ["bootstrap-5-2-0-beta.png"]
+categories: ["Character Arc Blog"]
+tags: ["Character Arc"]
+keywords: ["character arc", "character", "arc", "beta", "release"]
+authors: ["Nick Cirillo"]
 noindex: true
 ---
 
-![Bootstrap 5 2 0 Beta](bootstrap-5-2-0-beta.png)
-{ .img-fluid }
+**Join the Character Arc Beta – Revolutionize Game Dialogue!**  
 
-> It’s the biggest release since v5 itself—**Bootstrap v5.2.0-beta1 is here!** This release features redesigned docs, CSS variables for all our components, responsive offcanvas, new helpers and utilities, refined buttons and inputs, and lots of improvements under the hood.
+Tired of writing endless lines of repetitive NPC dialogue? **Character Arc** is here to change the game—literally. Our cutting-edge API lets you create dynamic, emotionally rich character interactions that evolve with your players' choices, all while seamlessly integrating into **Unity, Unreal, and other game engines**. Whether you're a **game writer**, **designer**, or **producer**, Character Arc helps you craft infinite branching narratives without the cost and complexity of traditional dialogue writing.  
 
-Given the size of the update and time since our last release, we’re doing something different and shipping it as a beta first. [Keep reading for details](https://blog.getbootstrap.com/2022/05/13/bootstrap-5-2-0-beta/).
+Be among the first to experience the future of game storytelling. **Join the beta waitlist today** and give your characters the depth they deserve!
